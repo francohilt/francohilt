@@ -4,7 +4,6 @@
 <h2> Hey there! I'm Fran 👋</h2> 
 <a href="https://www.linkedin.com/in/franco-hilt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/franco.hilt/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ivanfranco636@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
@@ -29,11 +28,9 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=Php&logoColor=007396)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
